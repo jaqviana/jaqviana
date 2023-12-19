@@ -1,7 +1,7 @@
 ### Hi there! I'm Jaqueline 👋
 Enthusiastic Mobile Developer
 
-- 📱 I’m currently working on a project as a freelancer using React Native
+- 📱 I’m currently working as a mobile developer freelancer using React Native
 - 🌎 I’m looking to collaborate on mobile projects that add benefits to the world
 - 👩🏻‍💻I transitioned my professional career to the field of mobile development after my experience in project management on technology-related projects
 
