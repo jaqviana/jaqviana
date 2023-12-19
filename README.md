@@ -4,7 +4,7 @@ Enthusiastic Mobile Developer
 - 📱 I’m currently working as a mobile developer freelancer using React Native
 - 🌎 I’m looking to collaborate on mobile development projects that add benefits to the world
 - 👩🏻‍💻 I transitioned my professional career to the field of mobile development after my experience in project management on technology-related projects
-- 🐈🐈‍⬛ I'm a cat lovers and I have two adopted cats from Brazil
+- 🐈🐈‍⬛ I'm a cat lover, and I have two adopted cats from Brazil
 
 
 🦄 Languages and  Framework:
